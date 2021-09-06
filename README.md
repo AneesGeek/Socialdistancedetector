@@ -1,5 +1,5 @@
 # Socialdistancedetector
-To check whether people are in socila distance or not using python and opencv
+To check whether people are in social distance or not using python and opencv
 To run these files download the yolo weights file from:link will be updated soon
 After downloading the file paste it in yolo-coco folder
 Now to run the program do the foll:
