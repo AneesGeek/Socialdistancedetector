@@ -1,0 +1,2 @@
+python social_distancing_detector.py --input test.mp4 --output out.avi --display 0
+```
